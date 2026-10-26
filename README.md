@@ -181,11 +181,21 @@ An AI-powered lead scoring project designed to help admission counsellors priori
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya280505&bg_color=0d1117&color=FB8C00&line=FB8C00&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
-</p>
 
----
+<!-- Contribution Graph -->
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=aditya280505&bg_color=0d1117&color=FB8C00&line=FB8C00&point=FFFFFF&area=true&hide_border=true"
+  width="100%"
+  alt="Contribution Graph"
+/>
+
+</div>
+
 
 <!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
